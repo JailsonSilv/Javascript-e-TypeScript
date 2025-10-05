@@ -1,4 +1,4 @@
-const nome = 'Luiz Otávio';
+ const nome = 'Luiz Otávio';
 const sobrenome = 'Miranda';
 const idade = 30;
 const peso = 84;
